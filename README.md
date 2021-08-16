@@ -1,2 +1,2 @@
 # API_monitor_python
-API Monitoring Application with notifiaction via email on Python
+API Monitoring Application with notification via email on Python
